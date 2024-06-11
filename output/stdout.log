@@ -1,0 +1,237 @@
+
+Collecting tasks from: tasks.py
+=================== Running: [96morder_robots_from_RobotSpareBin[0m ===================
+Successfully navigated to order page
+Successfully downloaded the CSV file!
+Successfully closed the modal!
+Processing Order Number 1
+{'Order number': '1', 'Head': '1', 'Body': '2', 'Legs': '3', 'Address': 'Address 123'}
+Successfully clicked the Preview button!
+Screenshot robot_order_1 has been taken!
+Successfully clicked the Order button!
+No Error Detected!
+PDF receipt_order_1 has been export!
+Robot screenshot has been appended to PDF!
+Order another button has been clicked!
+Successfully closed the modal!
+Processing Order Number 2
+{'Order number': '2', 'Head': '4', 'Body': '1', 'Legs': '5', 'Address': 'Address 456'}
+Successfully clicked the Preview button!
+Screenshot robot_order_2 has been taken!
+Successfully clicked the Order button!
+No Error Detected!
+PDF receipt_order_2 has been export!
+Robot screenshot has been appended to PDF!
+Order another button has been clicked!
+Successfully closed the modal!
+Processing Order Number 3
+{'Order number': '3', 'Head': '6', 'Body': '2', 'Legs': '3', 'Address': 'Address 789'}
+Successfully clicked the Preview button!
+Screenshot robot_order_3 has been taken!
+Successfully clicked the Order button!
+Error: Could Not Load Error Message Error Detected! Clicking Order button again.
+Successfully clicked the Order button!
+Order has been resubmitted!
+No Error Detected!
+PDF receipt_order_3 has been export!
+Robot screenshot has been appended to PDF!
+Order another button has been clicked!
+Successfully closed the modal!
+Processing Order Number 4
+{'Order number': '4', 'Head': '2', 'Body': '3', 'Legs': '2', 'Address': 'Address 1'}
+Successfully clicked the Preview button!
+Screenshot robot_order_4 has been taken!
+Successfully clicked the Order button!
+No Error Detected!
+PDF receipt_order_4 has been export!
+Robot screenshot has been appended to PDF!
+Order another button has been clicked!
+Successfully closed the modal!
+Processing Order Number 5
+{'Order number': '5', 'Head': '3', 'Body': '5', 'Legs': '1', 'Address': 'Address 2'}
+Successfully clicked the Preview button!
+Screenshot robot_order_5 has been taken!
+Successfully clicked the Order button!
+Error: Could Not Load Error Message Error Detected! Clicking Order button again.
+Successfully clicked the Order button!
+Order has been resubmitted!
+No Error Detected!
+PDF receipt_order_5 has been export!
+Robot screenshot has been appended to PDF!
+Order another button has been clicked!
+Successfully closed the modal!
+Processing Order Number 6
+{'Order number': '6', 'Head': '1', 'Body': '6', 'Legs': '6', 'Address': 'Address 3'}
+Successfully clicked the Preview button!
+Screenshot robot_order_6 has been taken!
+Successfully clicked the Order button!
+No Error Detected!
+PDF receipt_order_6 has been export!
+Robot screenshot has been appended to PDF!
+Order another button has been clicked!
+Successfully closed the modal!
+Processing Order Number 7
+{'Order number': '7', 'Head': '5', 'Body': '1', 'Legs': '5', 'Address': 'Address 4'}
+Successfully clicked the Preview button!
+Screenshot robot_order_7 has been taken!
+Successfully clicked the Order button!
+No Error Detected!
+PDF receipt_order_7 has been export!
+Robot screenshot has been appended to PDF!
+Order another button has been clicked!
+Successfully closed the modal!
+Processing Order Number 8
+{'Order number': '8', 'Head': '2', 'Body': '3', 'Legs': '3', 'Address': 'Address 5'}
+Successfully clicked the Preview button!
+Screenshot robot_order_8 has been taken!
+Successfully clicked the Order button!
+Internal Server Error Error Detected! Clicking Order button again.
+Successfully clicked the Order button!
+Order has been resubmitted!
+No Error Detected!
+PDF receipt_order_8 has been export!
+Robot screenshot has been appended to PDF!
+Order another button has been clicked!
+Successfully closed the modal!
+Processing Order Number 9
+{'Order number': '9', 'Head': '3', 'Body': '2', 'Legs': '2', 'Address': 'Address 6'}
+Successfully clicked the Preview button!
+Screenshot robot_order_9 has been taken!
+Successfully clicked the Order button!
+No Error Detected!
+PDF receipt_order_9 has been export!
+Robot screenshot has been appended to PDF!
+Order another button has been clicked!
+Successfully closed the modal!
+Processing Order Number 10
+{'Order number': '10', 'Head': '4', 'Body': '4', 'Legs': '2', 'Address': 'Address 7'}
+Successfully clicked the Preview button!
+Screenshot robot_order_10 has been taken!
+Successfully clicked the Order button!
+No Error Detected!
+PDF receipt_order_10 has been export!
+Robot screenshot has been appended to PDF!
+Order another button has been clicked!
+Successfully closed the modal!
+Processing Order Number 11
+{'Order number': '11', 'Head': '6', 'Body': '6', 'Legs': '1', 'Address': 'Address 8'}
+Successfully clicked the Preview button!
+Screenshot robot_order_11 has been taken!
+Successfully clicked the Order button!
+No Error Detected!
+PDF receipt_order_11 has been export!
+Robot screenshot has been appended to PDF!
+Order another button has been clicked!
+Successfully closed the modal!
+Processing Order Number 12
+{'Order number': '12', 'Head': '1', 'Body': '3', 'Legs': '3', 'Address': 'Address 9'}
+Successfully clicked the Preview button!
+Screenshot robot_order_12 has been taken!
+Successfully clicked the Order button!
+No Error Detected!
+PDF receipt_order_12 has been export!
+Robot screenshot has been appended to PDF!
+Order another button has been clicked!
+Successfully closed the modal!
+Processing Order Number 13
+{'Order number': '13', 'Head': '1', 'Body': '5', 'Legs': '4', 'Address': 'Address A'}
+Successfully clicked the Preview button!
+Screenshot robot_order_13 has been taken!
+Successfully clicked the Order button!
+No Error Detected!
+PDF receipt_order_13 has been export!
+Robot screenshot has been appended to PDF!
+Order another button has been clicked!
+Successfully closed the modal!
+Processing Order Number 14
+{'Order number': '14', 'Head': '3', 'Body': '1', 'Legs': '5', 'Address': 'Address B'}
+Successfully clicked the Preview button!
+Screenshot robot_order_14 has been taken!
+Successfully clicked the Order button!
+No Error Detected!
+PDF receipt_order_14 has been export!
+Robot screenshot has been appended to PDF!
+Order another button has been clicked!
+Successfully closed the modal!
+Processing Order Number 15
+{'Order number': '15', 'Head': '3', 'Body': '2', 'Legs': '6', 'Address': 'Address C'}
+Successfully clicked the Preview button!
+Screenshot robot_order_15 has been taken!
+Successfully clicked the Order button!
+Server Out Of Ink Error Error Detected! Clicking Order button again.
+Successfully clicked the Order button!
+Order has been resubmitted!
+No Error Detected!
+PDF receipt_order_15 has been export!
+Robot screenshot has been appended to PDF!
+Order another button has been clicked!
+Successfully closed the modal!
+Processing Order Number 16
+{'Order number': '16', 'Head': '6', 'Body': '3', 'Legs': '6', 'Address': 'Address D'}
+Successfully clicked the Preview button!
+Screenshot robot_order_16 has been taken!
+Successfully clicked the Order button!
+Request Got Lost Error Error Detected! Clicking Order button again.
+Successfully clicked the Order button!
+Order has been resubmitted!
+Error: Could Not Load Error Message Error Detected! Clicking Order button again.
+Successfully clicked the Order button!
+Order has been resubmitted!
+No Error Detected!
+PDF receipt_order_16 has been export!
+Robot screenshot has been appended to PDF!
+Order another button has been clicked!
+Successfully closed the modal!
+Processing Order Number 17
+{'Order number': '17', 'Head': '5', 'Body': '4', 'Legs': '1', 'Address': 'Address E'}
+Successfully clicked the Preview button!
+Screenshot robot_order_17 has been taken!
+Successfully clicked the Order button!
+Unexpected Server Error Error Detected! Clicking Order button again.
+Successfully clicked the Order button!
+Order has been resubmitted!
+Server Out Of Ink Error Error Detected! Clicking Order button again.
+Successfully clicked the Order button!
+Order has been resubmitted!
+No Error Detected!
+PDF receipt_order_17 has been export!
+Robot screenshot has been appended to PDF!
+Order another button has been clicked!
+Successfully closed the modal!
+Processing Order Number 18
+{'Order number': '18', 'Head': '2', 'Body': '5', 'Legs': '1', 'Address': 'Address F'}
+Successfully clicked the Preview button!
+Screenshot robot_order_18 has been taken!
+Successfully clicked the Order button!
+Have You Tried Turning It On And Off Again? Error Detected! Clicking Order button again.
+Successfully clicked the Order button!
+Order has been resubmitted!
+No Error Detected!
+PDF receipt_order_18 has been export!
+Robot screenshot has been appended to PDF!
+Order another button has been clicked!
+Successfully closed the modal!
+Processing Order Number 19
+{'Order number': '19', 'Head': '4', 'Body': '6', 'Legs': '2', 'Address': 'Address G'}
+Successfully clicked the Preview button!
+Screenshot robot_order_19 has been taken!
+Successfully clicked the Order button!
+No Error Detected!
+PDF receipt_order_19 has been export!
+Robot screenshot has been appended to PDF!
+Order another button has been clicked!
+Successfully closed the modal!
+Processing Order Number 20
+{'Order number': '20', 'Head': '1', 'Body': '1', 'Legs': '5', 'Address': 'Address H'}
+Successfully clicked the Preview button!
+Screenshot robot_order_20 has been taken!
+Successfully clicked the Order button!
+No Error Detected!
+PDF receipt_order_20 has been export!
+Robot screenshot has been appended to PDF!
+Order another button has been clicked!
+Successfully closed the modal!
+Robot Receipts have been archived to output/archive.zip
+[96morder_robots_from_RobotSpareBin[0m status: PASS
+================================================================================
+Robocorp Log (html): c:\Users\Enel\Documents\robocorp-level-two-certification\output\log.html

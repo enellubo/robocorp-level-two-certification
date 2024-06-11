@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "c:/Users/Enel/Documents/robocorpleveltwocertification/robocorpleveltwo/."
+    ],
+    "python.terminal.activateEnvironment": false
+}

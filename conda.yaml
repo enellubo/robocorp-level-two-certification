@@ -1,0 +1,24 @@
+# For more details on the format and content:
+# https://github.com/robocorp/rcc/blob/master/docs/recipes.md#what-is-in-condayaml
+# Tip: Adding a link to the release notes of the packages helps maintenance and security.
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.10.12                # https://pyreadiness.org/3.10
+  - robocorp-truststore=0.8.0     # https://pypi.org/project/robocorp-truststore/
+  - pip=23.2.1                    # https://pip.pypa.io/en/stable/news
+  - pip:
+    - rpaframework==28.0.0        # https://rpaframework.org/releasenotes.html
+    - robocorp==1.4.0             # https://pypi.org/project/robocorp
+    - robocorp-browser==2.2.1     # https://pypi.org/project/robocorp-browser
+    - requests==2.31.0            # https://pypi.org/project/requests
+    - google-api-python-client==2.121.0    # https://pypi.org/project/google-api-python-client/
+    - undetected-chromedriver==3.5.5
+    - fake_useragent==1.4.0
+    - xvfbwrapper==0.2.9
+    - google-auth-oauthlib==1.2.0
+    - boto3==1.34.59
+    - botocore==1.34.59
+    - gspread==6.0.2
